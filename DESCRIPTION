@@ -1,0 +1,11 @@
+Package: APaSPU
+Type: Package
+Title: Adaptive Sum of Powered Test (aSPU) Based on Approximated Score Vector
+Version: 0.1.0
+Author: Zhiyuan (Jason) Xu and Wei Pan
+Maintainer: Zhiyuan (Jason) Xu <xuxx0284@umn.edu>
+Description: It gives p-value of aSPU test based on approximated score vector. This test is applicable to both maximum-likelihood estimation and estimating function-based models.
+License: GPL-3
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Imports: MASS, lme4
