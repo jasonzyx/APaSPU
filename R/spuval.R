@@ -15,7 +15,7 @@
 #' Yiwei Zhang, Zhiyuan Xu, Xiaotong Shen, Wei Pan (2014) Testing for association with multiple
 #' traits in generalized estimation equations, with application to neuroimaging data. Neuroimage.
 #' 96:309-25
-#' @export
+#'
 
 
 spuval<-function(U,V,gamma1,gamma2, K,weight=F){

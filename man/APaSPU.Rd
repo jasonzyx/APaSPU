@@ -37,8 +37,8 @@ APaSPU(betas,Cov,pow=c(1:8,Inf),B=1000)
 Zhiyuan (Jason) Xu, Yiwei Zhang and Wei Pan
 }
 \references{
-Wei Pan, Junghi Kim, Yiwei Zhang, Xiaotong Shen and Peng Wei (2014) A powerful and adaptive
-association test for rare variants, Genetics, 197(4), 1081-95
+Zhiyuan Xu, Wei Pan (2015). Approximate score‐based testing with application to multivariate
+trait association analysis. Genetic Epidemiology. 39(6): 469-479.
 
 Yiwei Zhang, Zhiyuan Xu, Xiaotong Shen, Wei Pan (2014) Testing for association with multiple
 traits in generalized estimation equations, with application to neuroimaging data. Neuroimage.

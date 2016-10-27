@@ -6,7 +6,7 @@
 #' @author Zhiyuan (Jason) Xu, Yiwei Zhang and Wei Pan
 #' @return  simulation-based p-values of the sum of powered score (SPU) with different power
 #' @details the suggested power term is c(1:8, Inf)
-#' @export
+#'
 
 
 PermPvs<-function(T0s,B){

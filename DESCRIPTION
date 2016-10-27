@@ -8,4 +8,4 @@ Description: It gives p-value of aSPU test based on approximated score vector. T
 License: GPL-3
 LazyData: TRUE
 RoxygenNote: 5.0.1
-Imports: MASS, lme4
+Imports: MASS, lme4, gee
