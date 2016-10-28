@@ -12,7 +12,7 @@
 #' @return P-values for SPU and aSPU test based on approximated Score vector from GEE
 #' @author Zhiyuan (Jason) Xu, Yiwei Zhang and Wei Pan
 #' @references
-#' Zhiyuan Xu, Wei Pan (2015). Approximate score‐based testing with application to multivariate
+#' Zhiyuan Xu, Wei Pan (2014) Approximate score-based testing with application to multivariate
 #' trait association analysis. Genetic Epidemiology. 39(6): 469-479.
 #'
 #' Wei Pan, Junghi Kim, Yiwei Zhang, Xiaotong Shen and Peng Wei (2014) A powerful and adaptive
@@ -24,7 +24,8 @@
 #' @examples
 #'
 #' data("exdat_GLMM")
-#' gee.aSPU <- GEE.approx.aSPU(exdat_GLMM, "Y", paste0("X.",1:10), cov = NULL, groupID = "ID",corstr="independence",family="binomial", B = 10000 )
+#' gee.aSPU <- GEE.approx.aSPU(exdat_GLMM, "Y", paste0("X.",1:10), cov = NULL,
+#' groupID = "ID",corstr="independence",family="binomial", B = 1000 )
 #' gee.aSPU
 #' @export
 #

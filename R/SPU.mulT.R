@@ -22,7 +22,7 @@
 SPU.mulT <- function(U, V, pow = c(1:8,Inf), B){
 
 
-  K = length(betas)
+  K = length(U)
   gamma2 = pow
   gamma1 = 1
   weight = F

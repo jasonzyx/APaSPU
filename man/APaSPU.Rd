@@ -37,7 +37,7 @@ APaSPU(betas,Cov,pow=c(1:8,Inf),B=1000)
 Zhiyuan (Jason) Xu, Yiwei Zhang and Wei Pan
 }
 \references{
-Zhiyuan Xu, Wei Pan (2015). Approximate score‐based testing with application to multivariate
+Zhiyuan Xu, Wei Pan (2014) Approximate score-based testing with application to multivariate
 trait association analysis. Genetic Epidemiology. 39(6): 469-479.
 
 Yiwei Zhang, Zhiyuan Xu, Xiaotong Shen, Wei Pan (2014) Testing for association with multiple
